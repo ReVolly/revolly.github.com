@@ -5,6 +5,7 @@ html, body {
 body {
     padding-top: 55px;
     display: flex;
+    -ms-flex-align: center;
     /*text-align: center;*/
     flex-direction: column;
 }
@@ -95,6 +96,7 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
     text-align: center;
+    width: 100%;
 }
 
 img {
