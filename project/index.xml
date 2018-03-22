@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>Nsis Dotnet Checker</title>
+      <title>NSIS Dotnet Checker</title>
       <link>http://blog.revolly.com/project/nsis-dotnet-checker/</link>
       <pubDate>Thu, 22 Mar 2018 21:39:43 +0200</pubDate>
       
       <guid>http://blog.revolly.com/project/nsis-dotnet-checker/</guid>
-      <description>GitHub: https://github.com/ReVolly/NsisDotNetChecker</description>
+      <description>NSIS plugin that allows to detect if particular .NET framework is installed and download/install one if it is not found.
+-
+GitHub: https://github.com/ReVolly/NsisDotNetChecker</description>
     </item>
     
   </channel>
