@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexei Sitnikov</title>
-    <link>http://blog.revolly.com/</link>
+    <link>http://revolly.com/</link>
     <description>Recent content on Alexei Sitnikov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Mar 2018 21:39:43 +0200</lastBuildDate>
     
-	<atom:link href="http://blog.revolly.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://revolly.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NSIS Dotnet Checker</title>
-      <link>http://blog.revolly.com/project/nsis-dotnet-checker/</link>
+      <link>http://revolly.com/project/nsis-dotnet-checker/</link>
       <pubDate>Thu, 22 Mar 2018 21:39:43 +0200</pubDate>
       
-      <guid>http://blog.revolly.com/project/nsis-dotnet-checker/</guid>
+      <guid>http://revolly.com/project/nsis-dotnet-checker/</guid>
       <description>NSIS plugin that allows to detect if particular .NET framework is installed and download/install one if it is not found.
 -
 GitHub: https://github.com/ReVolly/NsisDotNetChecker</description>

@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.revolly.com/project/nsis-dotnet-checker/</loc>
+    <loc>http://revolly.com/project/nsis-dotnet-checker/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.revolly.com/tags/.net/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.revolly.com/</loc>
+    <loc>http://revolly.com/tags/.net/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.revolly.com/tags/c#/</loc>
+    <loc>http://revolly.com/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.revolly.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.revolly.com/tags/nsis/</loc>
+    <loc>http://revolly.com/tags/c#/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.revolly.com/project/</loc>
+    <loc>http://revolly.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://revolly.com/tags/nsis/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.revolly.com/tags/</loc>
+    <loc>http://revolly.com/project/</loc>
+    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://revolly.com/tags/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
