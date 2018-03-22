@@ -5,7 +5,7 @@ html, body {
 body {
     padding-top: 55px;
     display: flex;
-    text-align: center;
+    /*text-align: center;*/
     flex-direction: column;
 }
 
@@ -26,6 +26,7 @@ main {
 
 .intro {
     transform: translateY(22vh);
+    text-align: center;
 }
 
 .intro > h1 {
@@ -93,6 +94,7 @@ a:hover {
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
+    text-align: center;
 }
 
 img {
