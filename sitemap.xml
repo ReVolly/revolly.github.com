@@ -3,25 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.revolly.com/project/nsis-dotnet-checker/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.revolly.com/tags/.net/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.revolly.com/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.revolly.com/tags/c#/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,26 +13,7 @@
   </url>
   
   <url>
-    <loc>http://blog.revolly.com/tags/installers/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.revolly.com/tags/nsis/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.revolly.com/project/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.revolly.com/tags/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
     <priority>0</priority>
   </url>
   
