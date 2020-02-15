@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alexei Sitnikov</title>
-    <link>http://revolly.com/tags/</link>
+    <link>https://sitnikov.io/tags/</link>
     <description>Recent content in Tags on Alexei Sitnikov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Mar 2018 21:39:43 +0200</lastBuildDate>
     
-	<atom:link href="http://revolly.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sitnikov.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>.Net</title>
-      <link>http://revolly.com/tags/.net/</link>
+      <title>.net</title>
+      <link>https://sitnikov.io/tags/.net/</link>
       <pubDate>Thu, 22 Mar 2018 21:39:43 +0200</pubDate>
       
-      <guid>http://revolly.com/tags/.net/</guid>
+      <guid>https://sitnikov.io/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C#</title>
-      <link>http://revolly.com/tags/c#/</link>
+      <title>c#</title>
+      <link>https://sitnikov.io/tags/c#/</link>
       <pubDate>Thu, 22 Mar 2018 21:39:43 +0200</pubDate>
       
-      <guid>http://revolly.com/tags/c#/</guid>
+      <guid>https://sitnikov.io/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nsis</title>
-      <link>http://revolly.com/tags/nsis/</link>
+      <title>nsis</title>
+      <link>https://sitnikov.io/tags/nsis/</link>
       <pubDate>Thu, 22 Mar 2018 21:39:43 +0200</pubDate>
       
-      <guid>http://revolly.com/tags/nsis/</guid>
+      <guid>https://sitnikov.io/tags/nsis/</guid>
       <description></description>
     </item>
     

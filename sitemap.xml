@@ -1,51 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://revolly.com/project/nsis-dotnet-checker/</loc>
+    <loc>https://sitnikov.io/</loc>
+    <lastmod>2018-03-22T22:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitnikov.io/post/hello-there/</loc>
+    <lastmod>2018-03-22T22:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitnikov.io/post/</loc>
+    <lastmod>2018-03-22T22:36:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sitnikov.io/tags/.net/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://revolly.com/tags/.net/</loc>
+    <loc>https://sitnikov.io/tags/c#/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://revolly.com/</loc>
+    <loc>https://sitnikov.io/tags/nsis/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://revolly.com/tags/c#/</loc>
+    <loc>https://sitnikov.io/project/nsis-dotnet-checker/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://revolly.com/categories/</loc>
-    <priority>0</priority>
+    <loc>https://sitnikov.io/project/</loc>
+    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://revolly.com/tags/nsis/</loc>
+    <loc>https://sitnikov.io/tags/</loc>
     <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://revolly.com/project/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://revolly.com/tags/</loc>
-    <lastmod>2018-03-22T21:39:43+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://sitnikov.io/categories/</loc>
   </url>
   
 </urlset>

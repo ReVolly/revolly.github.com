@@ -1,22 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexei Sitnikov</title>
-    <link>http://revolly.com/</link>
+    <link>https://sitnikov.io/</link>
     <description>Recent content on Alexei Sitnikov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Mar 2018 21:39:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Mar 2018 22:36:27 +0200</lastBuildDate>
     
-	<atom:link href="http://revolly.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sitnikov.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hello There</title>
+      <link>https://sitnikov.io/post/hello-there/</link>
+      <pubDate>Thu, 22 Mar 2018 22:36:27 +0200</pubDate>
+      
+      <guid>https://sitnikov.io/post/hello-there/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NSIS Dotnet Checker</title>
-      <link>http://revolly.com/project/nsis-dotnet-checker/</link>
+      <link>https://sitnikov.io/project/nsis-dotnet-checker/</link>
       <pubDate>Thu, 22 Mar 2018 21:39:43 +0200</pubDate>
       
-      <guid>http://revolly.com/project/nsis-dotnet-checker/</guid>
+      <guid>https://sitnikov.io/project/nsis-dotnet-checker/</guid>
       <description>NSIS plugin that allows to detect if particular .NET framework is installed and download/install one if it is not found.
 -
 GitHub: https://github.com/ReVolly/NsisDotNetChecker</description>
